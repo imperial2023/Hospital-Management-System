@@ -1,0 +1,10 @@
+C:\Users\josem\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\josem\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\josem\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\josem\source\repos\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\josem\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\josem\source\repos\Practice\Practice\bin\Debug\Colorful.Console.dll
+C:\Users\josem\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CopyComplete
+C:\Users\josem\source\repos\Practice\Practice\bin\Debug\LINQtoCSV.dll
